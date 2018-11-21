@@ -2,7 +2,7 @@
 
 This is the analysis module for analysize the classbench.
 
-The folder structure is:
+The folder structure are:
 
 code/   >   db_generator/   parameter_files/
 
