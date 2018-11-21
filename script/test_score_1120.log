@@ -1,0 +1,3130 @@
+acl
+change size from 1K to 10K
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 1000
+957 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 15567300.614420062
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 2000
+1860 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8656783.139784947
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 3000
+2746 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2931831.1434814273
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 4000
+3664 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6592051.423580786
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 5000
+4583 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7026671.018983198
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 6000
+5561 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8686666.576515015
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 7000
+6639 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7276179.0679319175
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 8000
+7752 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5192824.470588235
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 9000
+8727 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5535298.823421565
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9826 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 10651861.012008956
+change random from 2 to 64
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9792 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4933267.241830065
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9164 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3514102.2784810127
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8345 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2894341.092390653
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+7672 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3148237.2805005214
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8706 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8322699.379738112
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8743 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8287478.073887682
+change address scope from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9800 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2464620.04244898
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9848 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2452607.2721364745
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9805 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3284368.514023457
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9764 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 0.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9782 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3292090.9098343896
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9759 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 1649927.371247054
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9817 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4920704.169501885
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9797 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4930749.498009595
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9814 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2461104.179335643
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9822 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6557367.802891468
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9791 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4111405.913185579
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9861 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 2449373.9393570633
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9739 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4133358.1780470274
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9801 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3285708.9358228752
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9823 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4098012.348162476
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9833 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7368801.057662971
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9825 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4097178.1471755723
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9806 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8210233.590862737
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9748 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5781450.215839147
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9703 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 11616526.167989282
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9550 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 10959705.372146597
+change application from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9850 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6538727.569543147
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9830 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6552031.186164802
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9811 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4103024.6963612274
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9838 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4091764.1081520636
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9860 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3266048.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9838 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4910200.53181541
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9791 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3289064.7819426004
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9829 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3276348.8940889207
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9830 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 3276015.593082401
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9803 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6570077.176374579
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9804 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 4105954.2325581396
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9816 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7381562.8361858195
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9799 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7394368.894785183
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9791 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5756059.309978552
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9676 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5824470.5150888795
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9672 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 7491462.034739454
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9650 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 8342958.610569948
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9550 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6744132.6240837695
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9692 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 6645322.591828312
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9629 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5852900.270433066
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9589 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 5877315.330482845
+fw
+change size from 1K to 10K
+weight of current ruleset: 5877315.330482845
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 2000
+1742 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 544112113.304248
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 3000
+2699 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 449577542.75805855
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 4000
+3691 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 314090947.93606067
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 5000
+4725 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 287668392.6078307
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 6000
+5642 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 241725551.80148885
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 7000
+6597 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 211196013.58678186
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 8000
+7529 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 202778202.64895737
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 9000
+8432 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 204375150.7552182
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9358 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 184038982.3603334
+change random from 2 to 64
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9416 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 189720469.85896346
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9099 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 202251183.30893505
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8832 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 178981798.95652175
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+7871 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 306609097.74920595
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8231 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 209925462.992103
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9017 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 199146191.76400134
+change address scope from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9857 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 109562050.26600386
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9821 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 129973496.25822218
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9833 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 111964493.66175124
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9826 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 98445396.62120904
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9804 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 112071887.64096287
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9811 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 144585775.69829783
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9778 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 158420632.58416855
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9756 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 118635059.43091431
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9718 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 134296279.48466763
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9723 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 134321771.37097603
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9666 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 199530121.82578108
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9628 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 192896789.16493562
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9570 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 164071711.1908046
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9555 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 169952125.36096284
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9449 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 155489705.14043814
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9356 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 184624956.74390766
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9251 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 195786529.51162037
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9126 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 251422235.71509972
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8914 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 224478812.4747588
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8610 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 240833260.79256678
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8250 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 252293486.4058182
+change application from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9454 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 195209949.50200972
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9443 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 181726102.05400825
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9441 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 196455283.97415528
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9497 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 185718396.91355166
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9420 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 188944211.81146497
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9446 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 195287150.57378784
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9397 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 175001875.0426732
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9376 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 197365773.9795222
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9398 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 189828685.0342626
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9391 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 169479487.5979129
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9309 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 204065840.51047373
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9361 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 184471441.2972973
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9353 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 198978465.07772908
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9358 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 224070889.51314384
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9317 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 182894607.8265536
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9298 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 190129113.0135513
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9272 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 211472118.94391716
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9255 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 211364455.39578605
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9235 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 226222423.29225773
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9199 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 247239322.56288728
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9239 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 194006123.62030524
+ipc
+change size from 1K to 10K
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 1000
+971 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 299069115.1884655
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 2000
+1913 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 247055612.11918452
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 3000
+2884 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 239772341.0818308
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 4000
+3803 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 248052484.7793847
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 5000
+4722 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 203404993.65353665
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 6000
+5710 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 229520753.0704028
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 7000
+6677 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 115562061.98472367
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 8000
+7614 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 176730450.91252956
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 9000
+8487 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 179215238.25898433
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9494 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 182279375.73372656
+change random from 2 to 64
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9478 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 82597555.66997257
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9242 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 124056825.73988314
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8344 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 139341772.9472675
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8438 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 158396597.54823416
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8772 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 66994855.86502508
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+8972 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 105934108.41908158
+change address scope from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9551 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 79696723.27840017
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9545 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 99927933.33137769
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9618 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 40443827.3437305
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9570 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 39769292.37199582
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9567 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 100125081.51437232
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9482 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 100764592.73233496
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9577 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 60331078.4621489
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9544 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 100510078.81978206
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9608 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 81305709.13572024
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9569 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 119424850.85421674
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9518 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 120771968.94137424
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9581 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 199957634.49827784
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9542 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 119892280.93062252
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9535 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 120557358.79685369
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9570 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 122312925.27816091
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9549 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 201663557.81087026
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9478 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 163585752.40346065
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9401 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 125934231.35070737
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9378 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 244396420.7225421
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9328 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 373693606.8610635
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9155 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 383749151.2065538
+change application from -1.0 to 1.0
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9516 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 101438371.45691466
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9598 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 81055591.22150448
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9590 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 200055630.96225235
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9458 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 141718336.36540493
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9534 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 160008336.78204322
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9514 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 102745768.872819
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9555 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 177502119.47838828
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9554 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 122516334.87795688
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9535 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 161122293.90498164
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9558 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 101412516.88135593
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9524 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 160755555.45401093
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9531 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 137121156.39156437
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9466 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 123941453.34629199
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9521 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 161360851.79623988
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9495 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 224289509.11932597
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9450 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 161434031.27195767
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9381 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 243297212.86856413
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9402 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 161072696.74367157
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9333 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 162715881.69977498
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9381 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 203952726.61592582
+Initializing data structures...
+ 	done
+Creating application specifications...
+ 	done
+Creating source addresses...
+ 	done
+Creating destination addresses...
+ 	done
+Removing redundant filters and ordering nested filters...
+ 	done
+Target number of filters = 10000
+9340 filters generated in standard form
+	Note that number of generated filters may be less than target number
+	due to the removal of redundant filters during the generation process.
+	Redundancy may be reduced by turning on address scaling (-b switch),
+	increasing the smoothness adjustment,
+	or appropriately modifying the input parameter file.
+weight of current ruleset: 204381958.90706638
