@@ -1,0 +1,7 @@
+# folders
+code/db_generator/*
+code/parameter_files/*
+data/*
+
+# files
+code/*.pyc
