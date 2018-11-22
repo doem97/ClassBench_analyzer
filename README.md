@@ -2,7 +2,7 @@
 
 This is the analysis module for analysize the classbench.
 
-The folder structure tree is:
+## Folder structure tree
 
     .
     ├── code                     # Code that developed to stable version
