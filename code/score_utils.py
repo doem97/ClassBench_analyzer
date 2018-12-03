@@ -130,14 +130,14 @@ def get_point_index(rule,sip_map, dip_map, sp_map, dp_map):
     dp_high = dp_map[rule.dp_high]
     return sip_low, sip_high, dip_low, dip_high, sp_low, sp_high, dp_low, dp_high
 
-def get_point_index_mosaic(rule, sip_interval, dip_interval, sp_map, dp_map):
-    sip_low = rule.sip_low//int(sip_interval)
-    sip_high = rule.sip_high//int(sip_interval)
-    if rule.sip_high%sip_interval:
+def get_point_index_mosaic(rule, sip_interval_range, dip_interval_range, sp_map, dp_map):
+    sip_low = rule.sip_low//int(sip_interval_range)
+    sip_high = rule.sip_high//int(sip_interval_range)
+    if rule.sip_high%sip_interval_range:
         sip_high += 1
-    dip_low = rule.dip_low//int(dip_interval)
-    dip_high = rule.dip_high//int(dip_interval)
-    if rule.dip_high%dip_interval:
+    dip_low = rule.dip_low//int(dip_interval_range)
+    dip_high = rule.dip_high//int(dip_interval_range)
+    if rule.dip_high%dip_interval_range:
         dip_high += 1
     sp_low = sp_map[rule.sp_low]
     sp_high = sp_map[rule.sp_high]
@@ -166,7 +166,7 @@ def count_inter_score(filepath, sip_interval, dip_interval):
     """this cell using numpy function to construct a extra-huge space and the dimension is based on previous cutting"""
     space = np.zeros((sip_len-1, dip_len-1, sp_len-1, dp_len-1), dtype=np.uint8) # sip_len-1 is intervals
     for i in ruleset:
-        sip_low, sip_high, dip_low, dip_high, sp_low, sp_high, dp_low, dp_high = get_point_index_mosaic(i, sip_interval, dip_interval, sp_map, dp_map)
+        sip_low, sip_high, dip_low, dip_high, sp_low, sp_high, dp_low, dp_high = get_point_index_mosaic(i, sip_interval_range, dip_interval_range, sp_map, dp_map)
         # print("{} {} {} {} {} {} {} {}".format(sip_low, sip_high, dip_low, dip_high, sp_low, sp_high, dp_low, dp_high))
         space[sip_low:sip_high, dip_low:dip_high, sp_low:sp_high+1, dp_low:dp_high+1] += 1
         # this is the main problem where sp_low:sp_high may be 4:4 and means nothing. Here I use sp_low:sp_high+1, which means 4:5 
