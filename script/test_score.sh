@@ -128,7 +128,7 @@ python ../code/count_score.py --ruleset ../data/temp_filter.txt
 # fw
 echo "fw"
 echo "change size from 1K to 10K"
-../code/db_generator/db_generator -bc ../code/parameter_files/fw_seed 1000 2 0.5 -0.1 ../data/temp_filter.txt
+../code/db_generator/db_generator -bc ../code/parameter_files/fw1_seed 1000 2 0.5 -0.1 ../data/temp_filter.txt
 python ../code/count_score.py --ruleset ../data/temp_filter.txt
 ../code/db_generator/db_generator -bc ../code/parameter_files/fw1_seed 2000 2 0.5 -0.1 ../data/temp_filter.txt
 python ../code/count_score.py --ruleset ../data/temp_filter.txt
